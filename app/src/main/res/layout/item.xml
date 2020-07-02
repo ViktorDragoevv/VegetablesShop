@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/vName"
+        android:layout_width="131dp"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/aAvalable"
+        android:layout_width="88dp"
+        android:layout_height="wrap_content"
+
+        android:text="TextView" />
+
+    <TextView
+        android:id="@+id/vSold"
+        android:layout_width="102dp"
+        android:layout_height="wrap_content"
+
+        android:text="TextView" />
+
+    <Button
+        android:id="@+id/BTNSell"
+        android:layout_width="103dp"
+        android:layout_height="wrap_content"
+
+        android:text="Buy" />
+</LinearLayout>
